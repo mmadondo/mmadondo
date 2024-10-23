@@ -1,6 +1,7 @@
-### Hi there 👋
+### 👋 Hi there!
 
-My name is Malvern Madondo and I am a Computer Science PhD Candidate at Emory University. I completed my undergraduate studies in Computer Science/Info Systems and Mathematics at The College of St. Scholastica. I’m currently working on research at the intersection of Reinforcement Learning and Optimal Control, with applications in critical domains such as healthcare and sustainable agriculture.
+My name is Malvern Madondo and I am a Computer Science researcher specializing in machine learning and applied math in biomedicine. I recently earned my PhD in Computer Science from Emory University, following my undergraduate studies in Computer Science/Information Systems and Mathematics at The College of St. Scholastica.
 
-- 📫 Feel free to reach me at first.lastname(at)emory(dot)edu 
-- 🐦 You can also follow me on Twitter: [@MalvernMadondo](https://twitter.com/MalvernMadondo).
+Currently, I am advancing my research at the intersection of Reinforcement Learning and Optimal Control, focusing on adaptive treatment interventions in critical areas such as radiation therapy, glucose regulation, and neuromodulation.
+
+🌐 Website: [mmadondo.github.io](https://mmadondo.github.io/)
